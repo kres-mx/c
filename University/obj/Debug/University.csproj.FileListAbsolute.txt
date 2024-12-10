@@ -1,0 +1,17 @@
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\bin\Debug\University.exe.config
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\bin\Debug\University.exe
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\bin\Debug\University.pdb
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.exe
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.pdb
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.FrmMain.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.signUpForm.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.signInForm.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.FormMessages.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.FormOptions.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.FormPersonalInfo.resources
+C:\Users\mkram\OneDrive\שולחן העבודה\מטלה C#2\University\obj\Debug\University.FormSearch.resources
